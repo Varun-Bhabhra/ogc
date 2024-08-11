@@ -1,7 +1,7 @@
 function App() {
   return (
-    <section>
-      <h1 className="text-7xl bg-green-600">Hello</h1>
+    <section className="text-3xl">
+      Hello guys! Bs Dheere dheere sections dal raha hu, chill!
     </section>
   );
 }
