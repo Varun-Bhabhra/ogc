@@ -2,7 +2,7 @@ import President from "../assets/president.webp";
 
 const About = () => {
   return (
-    <div className="bg-white py-6 sm:py-8 lg:py-12">
+    <div className="bg-white py-24 sm:py-36">
       <div className="mx-auto max-w-screen-xl px-4 md:px-8">
         <div className="grid gap-8 md:grid-cols-2 lg:gap-12">
           <div>
