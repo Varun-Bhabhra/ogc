@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============= CSS RESET ============= */
+
+:root {
+  --primary: #19b4b1;
+  --secondary: #5ab87e;
+  --dark: #131313;
+  --light: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  /* outline-color: var(--secondary); */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+textarea,
+button,
+section {
+  font: inherit;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  color: var(--secondary);
+  background-color: var(--dark);
+}
