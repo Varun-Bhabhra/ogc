@@ -25,7 +25,6 @@ const Hero = () => {
             className="absolute inset-0 h-full w-full object-cover object-center"
           />
           <div className="absolute inset-0 bg-zinc-500 mix-blend-multiply"></div>
-          ÷
           <div className="relative flex flex-col items-center p-4 sm:max-w-xl">
             <p className="mb-4 text-center text-lg text-indigo-200 sm:text-xl md:mb-8">
               Very proud to introduce
