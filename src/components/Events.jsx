@@ -3,14 +3,14 @@ import visarjan from "../assets/visarjan.jpg";
 
 const Events = () => {
   return (
-    <div id="upcoming-events" className="bg-white py-6 sm:py-8 lg:py-12">
+    <div id="upcoming-events" className="bg-[#131313] py-24 sm:py-36">
       <div className="mx-auto max-w-screen-2xl px-4 md:px-8">
         <div className="mb-10 md:mb-16">
-          <h2 className="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">
+          <h2 className="mb-4 text-center text-2xl font-bold text-zinc-50 md:mb-6 lg:text-3xl">
             Upcoming Events
           </h2>
 
-          <p className="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">
+          <p className="mx-auto max-w-screen-md text-center text-gray-50 md:text-lg">
             Our celebrations are a time of joy, devotion, and unity. Here’s a
             glimpse of what’s coming up
           </p>
@@ -19,7 +19,7 @@ const Events = () => {
         <div className="grid gap-4 sm:grid-cols-2 md:gap-6 lg:grid-cols-3 xl:gap-8">
           <a
             href="#"
-            className="group relative flex h-48 flex-col overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-64 xl:h-96"
+            className="group relative flex h-48 flex-col overflow-hidden rounded-lg bg-gray-800 shadow-lg md:h-64 xl:h-96"
           >
             <img
               src={mahotsav}
@@ -42,7 +42,7 @@ const Events = () => {
 
           <a
             href="#"
-            className="group relative flex h-48 flex-col overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-64 xl:h-96"
+            className="group relative flex h-48 flex-col overflow-hidden rounded-lg bg-gray-800 shadow-lg md:h-64 xl:h-96"
           >
             <img
               src={mahotsav}
@@ -65,7 +65,7 @@ const Events = () => {
 
           <a
             href="#"
-            className="group relative flex h-48 flex-col overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-64 xl:h-96"
+            className="group relative flex h-48 flex-col overflow-hidden rounded-lg bg-gray-800 shadow-lg md:h-64 xl:h-96"
           >
             <img
               src={visarjan}
