@@ -1,9 +1,8 @@
+// Components
+import Hero from "./components/Hero";
+
 function App() {
-  return (
-    <section className="text-3xl">
-      Hello guys! Bs Dheere dheere sections dal raha hu, chill!
-    </section>
-  );
+  return <Hero />;
 }
 
 export default App;
