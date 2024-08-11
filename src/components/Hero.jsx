@@ -4,7 +4,7 @@ import logo from "../assets/logoWhite.svg";
 
 const Hero = () => {
   return (
-    <div className="bg-herobgMob lg:bg-herobg bg-cover bg-center pb-6 sm:pb-8 lg:pb-12 h-screen">
+    <div className="bg-herobgMob lg:bg-herobg bg-cover bg-top md:bg-center pb-6 sm:pb-8 lg:pb-12 h-screen">
       {" "}
       <div className="mx-auto h-full max-w-screen-2xl px-4 md:px-8 flex items-end md:items-center">
         {/* Hero Starts Here */}
