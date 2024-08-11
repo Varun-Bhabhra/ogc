@@ -1,4 +1,4 @@
-import Presedent from "../assets/president.webp";
+import President from "../assets/president.webp";
 
 const About = () => {
   return (
@@ -8,7 +8,7 @@ const About = () => {
           <div>
             <div className="h-64 overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-auto">
               <img
-                src={Presedent}
+                src={President}
                 loading="lazy"
                 alt="Photo by Martin Sanchez"
                 className="h-full w-full object-cover object-center"

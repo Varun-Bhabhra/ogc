@@ -16,7 +16,8 @@ export default {
       },
       backgroundImage: {
         hero: "url('../src/assets/hero.webp')",
-        heroG: "url('../src/assets/heroGanesh.png')",
+        herobgMob: "url('../src/assets/herobg-mob.png')",
+        herobg: "url('../src/assets/herobg.png')",
       },
     },
   },
