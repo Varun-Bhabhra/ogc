@@ -17,7 +17,7 @@ const About = () => {
           </div>
 
           <div className="md:pt-8">
-            <p className="text-center font-bold text-indigo-500 md:text-left">
+            <p className="text-center font-bold text-orange-500 md:text-left">
               President's Vision
             </p>
 

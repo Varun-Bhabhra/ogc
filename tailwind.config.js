@@ -14,6 +14,10 @@ export default {
       fontFamily: {
         metro: ["metropolis", "sans-serif"],
       },
+      backgroundImage: {
+        hero: "url('../src/assets/hero.webp')",
+        heroG: "url('../src/assets/heroGanesh.png')",
+      },
     },
   },
   plugins: [],
