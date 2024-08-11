@@ -1,10 +1,10 @@
 // Images
 // import HeroGanesh from "../assets/hero.webp";
-import logo from "../assets/logoWhite.svg";
+// import logo from "../assets/logoWhite.svg";
 
 const Hero = () => {
   return (
-    <div className="bg-herobgMob lg:bg-herobg bg-cover bg-top md:bg-center pb-6 sm:pb-8 lg:pb-12 h-screen">
+    <div className="bg-herobgMob lg:bg-herobg bg-cover bg-no-repeat bg-top md:bg-top pb-6 sm:pb-8 lg:pb-12 h-dvh">
       {" "}
       <div className="mx-auto h-full max-w-screen-2xl px-4 md:px-8 flex items-end md:items-center">
         {/* Hero Starts Here */}
@@ -44,7 +44,7 @@ const Hero = () => {
               >
                 Download PDF
               </a>
-              <a href="#" className="text-white hover:underline">
+              <a href="#upcoming-events" className="text-white hover:underline">
                 Upcoming Events →
               </a>
             </div>

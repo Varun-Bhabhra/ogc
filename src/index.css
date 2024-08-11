@@ -5,10 +5,8 @@
 /* ============= CSS RESET ============= */
 
 :root {
-  --primary: #19b4b1;
-  --secondary: #5ab87e;
+  --primary: #f97316;
   --dark: #131313;
-  --light: #ffffff;
 }
 
 * {
@@ -44,6 +42,10 @@ html {
 }
 
 ::selection {
-  color: var(--secondary);
+  color: var(--primary);
   background-color: var(--dark);
+}
+
+html {
+  scroll-behavior: smooth;
 }
