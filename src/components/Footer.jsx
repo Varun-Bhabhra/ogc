@@ -1,8 +1,21 @@
 const Footer = () => {
   return (
-    <section>
-      <div data-behold-id="9Q4OWy4gGmS6rgALEo6x"></div>
-      <div className="bg-white pt-4 sm:pt-10 lg:pt-12">
+    <section id="footer" className="bg-white pb-24 md:pb-0">
+      <div className="px-4">
+        {/* Heading */}
+        <div className=" text-zinc-800 mb-10 md:mb-16 mx-auto max-w-screen-2xl px-4 md:px-8">
+          <h2 className="mb-4 text-center text-2xl font-bold md:mb-6 lg:text-3xl">
+            Follow us on Instagram
+          </h2>
+
+          <p className=" text-center md:text-lg">
+            Our celebrations are a time of joy, devotion, and unity. Here’s a
+            glimpse of what’s coming up.
+          </p>
+        </div>
+        <div data-behold-id="9Q4OWy4gGmS6rgALEo6x"></div>
+      </div>
+      <div className="pt-4 sm:pt-10 lg:pt-12">
         <footer className="mx-auto max-w-screen-2xl px-4 md:px-8">
           <div className="flex flex-col items-center border-t pt-6">
             <nav className="mb-4 flex flex-wrap justify-center gap-x-4 gap-y-2 md:justify-start md:gap-6">

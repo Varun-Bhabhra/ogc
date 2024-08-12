@@ -1,6 +1,8 @@
 // Components
 import About from "./components/About";
 import CTA from "./components/CTA";
+import Carousel from "./components/Carousel";
+import Download from "./components/Download";
 import Events from "./components/Events";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
@@ -15,6 +17,8 @@ function App() {
       <Hero />
       <About />
       <Events />
+      <Carousel />
+      <Download />
       <CTA />
       <Footer />
     </section>

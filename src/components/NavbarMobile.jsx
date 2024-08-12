@@ -41,7 +41,7 @@ const NavbarMobile = () => {
 
         <a
           href="#about"
-          className="flex flex-col items-center gap-1 text-zinc-400 transition duration-100 hover:text-orange-500 active:text-orange-600"
+          className="flex flex-col items-center gap-1 text-zinc-500 transition duration-100 hover:text-orange-500 active:text-orange-600"
         >
           <svg
             className="h-6 w-6"
