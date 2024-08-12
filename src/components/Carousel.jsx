@@ -94,7 +94,7 @@ const Carousel = () => {
           modules={[Navigation, Pagination, Mousewheel, Keyboard]}
           className="mySwiper rounded-xl"
         >
-          <SwiperSlide className="">
+          <SwiperSlide className="cursor-grab">
             <img src={visarjan} alt="" className="max-h-[36rem]" />
           </SwiperSlide>
           <SwiperSlide className="">

@@ -37,7 +37,7 @@ const Hero = () => {
                 Upcoming events
               </a>
               <a href="#download" className="text-white hover:underline">
-                Important PDF's →
+                Important PDFs →
               </a>
             </div>
           </div>

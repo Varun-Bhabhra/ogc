@@ -26,13 +26,13 @@ const Team = () => {
         {/* carousel swiper  */}
         <Swiper
           slidesPerView={4}
-          spaceBetween={100}
+          spaceBetween={0}
           centeredSlides={true}
           pagination={{
             clickable: true,
           }}
           modules={[Pagination]}
-          className="mySwiper h-[32rem]"
+          className="mySwiper h-[32rem] cursor-grab"
         >
           {TeamData.map((item) => (
             <SwiperSlide className="py-24" key={item}>
@@ -40,9 +40,9 @@ const Team = () => {
                 <div className="flex flex-col items-center gap-2 sm:flexrow md:gap-4">
                   <div className="h-24 w-24 overflow-hidden rounded-full bg-gray-100 shadow-lg md:h-32 md:w-32 mx-12">
                     <img
-                      src="https://images.unsplash.com/photo-1567515004624-219c11d31f2e??auto=format&q=75&fit=crop&w=256"
+                      src={item.image}
                       loading="lazy"
-                      alt="Photo by Radu Florin"
+                      alt="Photo of team member"
                       className="h-full w-full object-cover object-center"
                     />
                   </div>
