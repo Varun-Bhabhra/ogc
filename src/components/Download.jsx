@@ -4,7 +4,7 @@ import SoundPermission from "../assets/Sound-Permission.pdf";
 
 const Download = () => {
   return (
-    <div id="download" className="bg-primary text-white py-6 sm:py-8 lg:py-12">
+    <div id="download" className="bg-primary text-white py-24 sm:py-36">
       <div className="mx-auto max-w-screen-2xl px-4 md:px-8">
         <div className="mx-auto flex max-w-3xl flex-col items-center text-center">
           <p className="mb-4 font-medium text-zinc-300 md:mb-6 md:text-lg ">
