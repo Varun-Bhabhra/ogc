@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import NavbarMobile from "./components/NavbarMobile";
+import Team from "./components/Team";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <About />
       <Events />
       <Carousel />
+      <Team />
       <Download />
       <CTA />
       <Footer />

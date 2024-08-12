@@ -21,7 +21,7 @@ const Carousel = () => {
 
           <p className=" text-center md:text-lg">
             Our celebrations are a time of joy, devotion, and unity. Here’s a
-            glimpse of what’s coming up
+            glimpse of what’s coming up.
           </p>
         </div>
         {/* Carousel */}
