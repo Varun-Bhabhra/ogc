@@ -9,7 +9,7 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import NavbarMobile from "./components/NavbarMobile";
 import Team from "./components/Team";
-import TenYear from "./components/tenyear";
+import TenYear from "./components/TenYear";
 
 function App() {
   return (
