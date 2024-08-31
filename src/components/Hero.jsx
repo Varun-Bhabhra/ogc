@@ -1,8 +1,10 @@
+import TenYear from "./tenyear";
+
 const Hero = () => {
   return (
     <div
       id="home"
-      className="bg-herobgMob lg:bg-herobg bg-cover bg-no-repeat bg-top md:bg-top pb-24 sm:pb-8 lg:pb-12 h-dvh"
+      className="bg-herobgMob lg:bg-herobg bg-cover bg-no-repeat bg-top md:bg-top pb24 sm:pb8 lg:pb12 h-dvh"
     >
       {" "}
       <div className="mx-auto h-full max-w-screen-2xl px-4 md:px-8 flex items-end md:items-center">
@@ -29,7 +31,7 @@ const Hero = () => {
               striving to preserve and celebrate our rich cultural heritage.
             </p>
 
-            <div className="flex w-full flex-col gap-6 md:flex-row items-center">
+            <div className="flex w-full flex-col gap-6 md:flex-row items-center pb-8">
               <a
                 href="#upcoming-events"
                 className="inline-block w-full md:w-auto rounded-lg bg-orange-500 px-8 py-3 text-center text-sm font-semibold text-white outline-none ring-indigo-300 transition duration-100 hover:bg-orange-600 focus-visible:ring active:bg-orange-700 md:text-base"
@@ -43,6 +45,7 @@ const Hero = () => {
           </div>
         </section>
       </div>
+      <TenYear />
     </div>
   );
 };

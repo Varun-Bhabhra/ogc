@@ -17,7 +17,7 @@ function App() {
       <Navbar />
       <NavbarMobile />
       <Hero />
-      <TenYear />
+      {/* <TenYear /> */}
       <About />
       <Events />
       <Carousel />
