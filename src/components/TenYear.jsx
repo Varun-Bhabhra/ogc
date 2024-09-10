@@ -18,12 +18,6 @@ const TenYear = () => {
           <div className="order-1 inline-block w-11/12 max-w-screen-sm text-xs md:text-xl text-white font-bold sm:order-none sm:mb-0 sm:w-auto lg:text-xl text-center">
             Celebrating Our 10 Year Anniversary!
           </div>
-          {/* <a
-            href="#"
-            className="order-last inline-block w-2/6 md:w-auto mx-auto md:mx-0 whitespace-nowrap rounded-lg bg-orange-600 px-4 py-2 text-center text-xs font-semibold text-white outline-none ring-indigo-300 transition duration-100 hover:bg-orange-700 focus-visible:ring active:bg-orange-800 sm:order-none sm:w-auto md:text-sm"
-          >
-            Join Us!
-          </a> */}
         </div>
       </div>
     </div>
