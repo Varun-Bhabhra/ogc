@@ -2,7 +2,7 @@ import Firework from "../assets/firework.webm";
 
 const TenYear = () => {
   return (
-    <div className="relative py-0 sm:py-0 lg:py-0">
+    <div className="relative py-8 sm:py-8 lg:py-8">
       <video
         autoPlay
         muted
