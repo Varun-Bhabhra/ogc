@@ -1,9 +1,16 @@
 import President from "../assets/president.webp";
+import Qrcode from "../assets/qrcode.jpg";
 
 const About = () => {
   return (
     <div id="about" className="bg-white py-24 sm:py-36">
       <div className="mx-auto max-w-screen-xl px-4 md:px-8">
+        <div className="pb-20 md:hidden">
+          <h1 className="mb-4 text-center text-2xl font-bold text-gray-800 sm:text-3xl md:mb-6 md:text-left">
+            Donate
+          </h1>
+          <img src={Qrcode} className="w-44 h-44 mx-auto rounded-xl" />
+        </div>
         <div className="grid gap-8 md:grid-cols-2 lg:gap-12">
           <div>
             <div className="h-64 overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-auto">

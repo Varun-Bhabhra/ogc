@@ -34,8 +34,8 @@ const Team = () => {
           modules={[Pagination]}
           className="mySwiper h-[32rem] cursor-grab"
         >
-          {TeamData.map((item) => (
-            <SwiperSlide className="py-24" key={item}>
+          {TeamData.map((item, key) => (
+            <SwiperSlide className="py-24" key={key}>
               <div className="w-[6rem]">
                 <div className="flex flex-col items-center gap-2 sm:flexrow md:gap-4">
                   <div className="h-24 w-24 overflow-hidden rounded-full bg-gray-100 shadow-lg md:h-32 md:w-32 mx-12">

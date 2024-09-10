@@ -1,14 +1,19 @@
 import TenYear from "../../src/components/TenYear";
+import Qrcode from "../assets/qrcode.jpg";
 
 const Hero = () => {
   return (
     <div
       id="home"
-      className="bg-herobgMob lg:bg-herobg bg-cover bg-no-repeat bg-top md:bg-top pb24 sm:pb8 lg:pb12 h-dvh"
+      className="relative bg-herobgMob lg:bg-herobg bg-cover bg-no-repeat bg-top md:bg-top pb24 sm:pb8 lg:pb12 h-dvh"
     >
       {" "}
       <div className="mx-auto h-full max-w-screen-2xl px-4 md:px-8 flex items-end md:items-center">
         {/* Hero Starts Here */}
+        <img
+          src={Qrcode}
+          className="hidden md:block absolute right-12 bottom-12 w-44 h-44 rounded-xl"
+        />
         <section className="max-w-lg sm:max-w-xl xl:max-w-screen-sm">
           <div className="flex gap-2 rounded border bg-orange-50 p-2 text-orange-500 max-w-[16rem]">
             <span className="mt-0.5 rounded-full bg-orange-300 px-2 py-1 text-xs font-semibold leading-none text-orange-800">
