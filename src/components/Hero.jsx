@@ -1,4 +1,4 @@
-// import TenYear from "./tenyear";
+import TenYear from "../../src/components/TenYear";
 
 const Hero = () => {
   return (
@@ -45,7 +45,7 @@ const Hero = () => {
           </div>
         </section>
       </div>
-      {/* <TenYear /> */}
+      <TenYear />
     </div>
   );
 };
