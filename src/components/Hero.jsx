@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div
       id="home"
-      className="relative bg-herobgMob lg:bg-herobg bg-cover bg-no-repeat bg-top md:bg-top pb24 sm:pb8 lg:pb12 sm:h-dvh"
+      className="relative bg-herobgMob lg:bg-herobg bg-cover bg-no-repeat bg-top md:bg-top pb24 sm:pb8 lg:pb12 h-dvh"
     >
       {" "}
       <div className="mx-auto h-full max-w-screen-2xl px-4 md:px-8 flex items-end md:items-center">
