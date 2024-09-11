@@ -1,23 +1,11 @@
 [
   {
     "name": "Ganesh Agarwal",
-    "image": "../../src/assets/ganesh.jpeg"
-  },
-  {
-    "name": "Anand Kumar",
-    "image": "../../src/assets/team/anand.jpeg"
-  },
-  {
-    "name": "Anshuman Joshi",
-    "image": "../../src/assets/team/anshuman.jpeg"
+    "image": "/assets/ganesh.jpeg"
   },
   {
     "name": "Nikash Agarwal",
     "image": "../../src/assets/team/nikash.jpeg"
-  },
-  {
-    "name": "Rishi Agarwal",
-    "image": "../../src/assets/team/rishi.jpeg"
   },
   {
     "name": "Vishal Sharma",
@@ -32,12 +20,24 @@
     "image": "../../src/assets/team/subham.jpeg"
   },
   {
+    "name": "Vibhu Dadhichi",
+    "image": "../../src/assets/team/vibhu.jpeg"
+  },
+  {
     "name": "Rohit Agarwal",
     "image": "../../src/assets/team/rohit.png"
   },
   {
-    "name": "Vibhu Dadhichi",
-    "image": "../../src/assets/team/vibhu.jpeg"
+    "name": "Anand Kumar",
+    "image": "../../src/assets/team/anand.jpeg"
+  },
+  {
+    "name": "Anshuman Joshi",
+    "image": "../../src/assets/team/anshuman.jpeg"
+  },
+  {
+    "name": "Rishi Agarwal",
+    "image": "../../src/assets/team/rishi.jpeg"
   },
   {
     "name": "Tarun Sharma",
