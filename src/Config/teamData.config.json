@@ -1,7 +1,7 @@
 [
   {
     "name": "Ganesh Agarwal",
-    "image": "../../src/assets/team/ganesh.jpeg"
+    "image": "../../../src/assets/team/ganesh.jpeg"
   },
   {
     "name": "Anand Kumar",
@@ -48,6 +48,10 @@
     "image": "../../src/assets/team/jitesh.jpeg"
   },
   {
+    "name": "Ashribad Samal",
+    "image": "../../src/assets/team/ashribad.jpeg"
+  },
+  {
     "name": "Amit Agarwal",
     "image": "https://www.w3schools.com/w3images/avatar2.png"
   },
@@ -61,10 +65,6 @@
   },
   {
     "name": "Pratik Singh",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
-  },
-  {
-    "name": "Ashirbad Samal",
     "image": "https://www.w3schools.com/w3images/avatar2.png"
   },
   {
