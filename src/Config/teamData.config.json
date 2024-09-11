@@ -1,47 +1,51 @@
 [
   {
     "name": "Anand Kumar",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/anand.jpeg"
   },
   {
     "name": "Anshuman Joshi",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
-  },
-  {
-    "name": "Ashirbad Samal",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/anshuman.jpeg"
   },
   {
     "name": "Nikash Agarwal",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/nikash.jpeg"
   },
   {
     "name": "Rishi Agarwal",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/rishi.jpeg"
   },
   {
     "name": "Ganesh Agarwal",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/ganesh.jpeg"
   },
   {
     "name": "Vishal Sharma",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/vishal.jpeg"
   },
   {
     "name": "Pankaj Tibrewal",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/pankaj.png"
   },
   {
     "name": "Subham Agarwal",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/subham.jpeg"
   },
   {
     "name": "Rohit Agarwal",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/rohit.png"
   },
   {
     "name": "Vibhu Dadhichi",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/vibhu.jpeg"
+  },
+  {
+    "name": "Tarun Sharma",
+    "image": "../../src/assets/team/tarun.jpeg"
+  },
+  {
+    "name": "Jitesh Sharma",
+    "image": "../../src/assets/team/jitesh.jpeg"
   },
   {
     "name": "Amit Agarwal",
@@ -60,11 +64,7 @@
     "image": "https://www.w3schools.com/w3images/avatar2.png"
   },
   {
-    "name": "Raunak Sharma",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
-  },
-  {
-    "name": "Jitesh Sharma",
+    "name": "Ashirbad Samal",
     "image": "https://www.w3schools.com/w3images/avatar2.png"
   },
   {
