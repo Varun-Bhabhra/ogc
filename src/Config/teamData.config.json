@@ -5,7 +5,7 @@
   },
   {
     "name": "Anand Kumar",
-    "image": "../../src/assets/team/anand.jpeg"
+    "image": "../assets/team/anand.jpeg"
   },
   {
     "name": "Anshuman Joshi",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Pankaj Tibrewal",
-    "image": "../../src/assets/team/pankaj.png"
+    "image": "../../src/assets/team/pankaj.jpg"
   },
   {
     "name": "Subham Agarwal",
@@ -53,22 +53,22 @@
   },
   {
     "name": "Amit Agarwal",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/amit.jpeg"
   },
   {
     "name": "Krishna Agarwal",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/krishna.png"
   },
   {
     "name": "Sandeep Sah",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/sandeep.jpeg"
   },
   {
     "name": "Pratik Singh",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/pratik.jpeg"
   },
   {
     "name": "Sreetam Panda",
-    "image": "https://www.w3schools.com/w3images/avatar2.png"
+    "image": "../../src/assets/team/sreetam.png"
   }
 ]
