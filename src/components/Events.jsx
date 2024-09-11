@@ -1,5 +1,6 @@
 import mahotsav from "../assets/mahotsav.jpeg";
 import visarjan from "../assets/visarjan.jpg";
+import gannu from "../assets/gannubappa.jpeg";
 
 const Events = () => {
   return (
@@ -22,7 +23,7 @@ const Events = () => {
             className="group relative flex h-48 flex-col overflow-hidden rounded-lg bg-gray-800 shadow-lg md:h-64 xl:h-96"
           >
             <img
-              src={mahotsav}
+              src={gannu}
               loading="lazy"
               alt="Photo by Lorenzo Herrera"
               className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
