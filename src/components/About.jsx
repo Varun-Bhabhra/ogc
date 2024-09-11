@@ -10,6 +10,13 @@ const About = () => {
             Contribute
           </h1>
           <img src={Qrcode} className="w-44 h-44 mx-auto rounded-xl" />
+          {/* upi ID  */}
+          <div className="text-center gap-2 rounded border bg-orange-50 p-2 text-orange-500 max-w-[16rem] mx-auto mt-4">
+            <span className="mt-0.5 rounded-full bg-orange-300 px-2 py-1 text-xs font-semibold leading-none text-orange-800 mx-auto mr-6">
+              UPI ID
+            </span>
+            <span className="text-sm mx-auto font-bold">9438528509@ybl</span>
+          </div>
         </div>
         <div className="grid gap-8 md:grid-cols-2 lg:gap-12">
           <div>
