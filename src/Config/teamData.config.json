@@ -1,5 +1,9 @@
 [
   {
+    "name": "Ganesh Agarwal",
+    "image": "../../src/assets/team/ganesh.jpeg"
+  },
+  {
     "name": "Anand Kumar",
     "image": "../../src/assets/team/anand.jpeg"
   },
@@ -14,10 +18,6 @@
   {
     "name": "Rishi Agarwal",
     "image": "../../src/assets/team/rishi.jpeg"
-  },
-  {
-    "name": "Ganesh Agarwal",
-    "image": "../../src/assets/team/ganesh.jpeg"
   },
   {
     "name": "Vishal Sharma",

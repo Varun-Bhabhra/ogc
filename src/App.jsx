@@ -9,7 +9,6 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import NavbarMobile from "./components/NavbarMobile";
 import Team from "./components/Team";
-import TenYear from "./components/TenYear";
 
 function App() {
   return (
@@ -17,11 +16,10 @@ function App() {
       <Navbar />
       <NavbarMobile />
       <Hero />
-      {/* <TenYear /> */}
       <About />
+      <Team />
       <Events />
       <Carousel />
-      <Team />
       <Download />
       <CTA />
       <Footer />
