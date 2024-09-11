@@ -7,7 +7,7 @@ const About = () => {
       <div className="mx-auto max-w-screen-xl px-4 md:px-8">
         <div className="pb-20 md:hidden">
           <h1 className="mb-4 text-center text-2xl font-bold text-gray-800 sm:text-3xl md:mb-6 md:text-left">
-            Donate
+            Contribute
           </h1>
           <img src={Qrcode} className="w-44 h-44 mx-auto rounded-xl" />
         </div>
