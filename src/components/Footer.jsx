@@ -13,7 +13,7 @@ const Footer = () => {
             glimpse of what’s coming up.
           </p>
         </div>
-        <div data-behold-id="9Q4OWy4gGmS6rgALEo6x"></div>
+        <div data-behold-id="jmHkUAqp6qWzhTeSzm3e"></div>
       </div>
       <div className="pt-4 sm:pt-10 lg:pt-12">
         <footer className="mx-auto max-w-screen-2xl px-4 md:px-8">

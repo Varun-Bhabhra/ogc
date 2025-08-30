@@ -133,7 +133,7 @@ const Team = () => {
                 {/* Hover effect overlay */}
                 <div className="opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                   <div className="text-xs text-orange-500 font-semibold">
-                    ✨ Team Member
+                    ✨ Pro Member
                   </div>
                 </div>
               </div>
