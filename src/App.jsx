@@ -19,7 +19,7 @@ function App() {
       <About />
       <Team />
       <Events />
-      <Carousel />
+      {/* <Carousel /> */}
       <Download />
       <CTA />
       <Footer />
