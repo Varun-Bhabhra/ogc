@@ -1,4 +1,5 @@
 import Firework from "../assets/firework.webm";
+import Gannu from "../assets/webmGannu.webm";
 
 const TenYear = () => {
   return (
@@ -16,7 +17,7 @@ const TenYear = () => {
       <div className="mx-auto max-w-screen-2xl px-4 md:px-8">
         <div className="relative flex flex-wrap rounded-lg px-4 py-3 justify-center sm:flex-nowrap sm:items-center sm:justify-center sm:gap-3 sm:pr-8 md:px-8">
           <div className="order-1 inline-block w-11/12 max-w-screen-sm text-xs md:text-xl text-white font-bold sm:order-none sm:mb-0 sm:w-auto lg:text-xl text-center">
-            Celebrating Our 10 Year Anniversary!
+            Celebrating Our 11 Year Anniversary!
           </div>
         </div>
       </div>

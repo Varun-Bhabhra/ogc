@@ -1,6 +1,6 @@
 const NavbarMobile = () => {
   return (
-    <div className="bg-white fixed bottom-0 w-full md:hidden z-10">
+    <div className="bg-white fixed bottom-0 w-full md:hidden z-30">
       <nav className="sticky bottom-0 mx-auto flex w-full justify-between gap-8 border-t bg-white px-10 py-4 text-xs sm:max-w-md sm:rounded-t-xl sm:border-transparent sm:text-sm sm:shadow-2xl">
         <a
           href="#home"

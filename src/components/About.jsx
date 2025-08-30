@@ -1,4 +1,4 @@
-import President from "../assets/president.webp";
+import President from "../assets/presedent2.webp";
 import Qrcode from "../assets/qrcode.jpg";
 
 const About = () => {
@@ -18,9 +18,9 @@ const About = () => {
             <span className="text-sm mx-auto font-bold">9438528509@ybl</span>
           </div>
         </div>
-        <div className="grid gap-8 md:grid-cols-2 lg:gap-12">
+        <div className="grid gap-8 md:grid-cols-2 lg:gap-12 items-center">
           <div>
-            <div className="h-64 overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-auto">
+            <div className="overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-auto">
               <img
                 src={President}
                 loading="lazy"

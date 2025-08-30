@@ -3,7 +3,7 @@ import logo from "../assets/logoWhite.svg";
 const Navbar = () => {
   return (
     <section className="">
-      <nav className="bg-primary/80 absolute w-full left-0 px-8 py-6 md:py-4 md:px-24 z-20">
+      <nav className="bg-primary/80 absolute w-full left-0 px-8 py-6 md:py-4 md:px-24 z-30">
         <div className="flex justify-center md:justify-between items-center text-xs lg:text-sm">
           <a href="">
             <img
