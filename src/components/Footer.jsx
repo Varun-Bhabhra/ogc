@@ -90,7 +90,7 @@ const Footer = () => {
           </div>
 
           <div className="py-8 text-center text-sm text-gray-400">
-            © 2024 - Om Ganeshay Committee. All rights reserved.
+            © 2025 - Om Ganeshay Committee. All rights reserved.
           </div>
         </footer>
       </div>
