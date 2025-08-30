@@ -20,28 +20,22 @@ const Footer = () => {
           <div className="flex flex-col items-center border-t pt-6">
             <nav className="mb-4 flex flex-wrap justify-center gap-x-4 gap-y-2 md:justify-start md:gap-6">
               <a
-                href="#"
+                href="#about"
                 className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600"
               >
                 About
               </a>
               <a
-                href="#"
+                href="#about"
                 className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600"
               >
                 Vision
               </a>
               <a
-                href="#"
+                href="#upcoming-events"
                 className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600"
               >
                 Upcoming Events
-              </a>
-              <a
-                href="#"
-                className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600"
-              >
-                Gallery
               </a>
               <a
                 href="#"
