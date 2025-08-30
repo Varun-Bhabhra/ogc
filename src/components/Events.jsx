@@ -16,7 +16,7 @@ const Events = () => {
     {
       date: "31 Aug",
       title: "Prasad Distribution",
-      subtitle: "Klab Kachori & Jalebi",
+      subtitle: "Club Kachori & Jalebi",
       type: "prasad",
       gradient: "from-yellow-500 to-orange-500",
       image: mahotsav,
