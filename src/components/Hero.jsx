@@ -1,4 +1,3 @@
-import TenYear from "../../src/components/TenYear";
 import Qrcode from "../assets/qrcode.jpg";
 import Gannu from "../assets/webmGannu.webm";
 
@@ -63,8 +62,6 @@ const Hero = () => {
           </div>
         </section>
       </div>
-
-      <TenYear />
     </div>
   );
 };

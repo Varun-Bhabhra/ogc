@@ -1,5 +1,4 @@
 import Firework from "../assets/firework.webm";
-import Gannu from "../assets/webmGannu.webm";
 
 const TenYear = () => {
   return (
